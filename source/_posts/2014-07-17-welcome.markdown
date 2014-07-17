@@ -1,0 +1,13 @@
+---
+layout: post
+title: "welcome"
+date: 2014-07-17 16:47:54 +0800
+comments: true
+categories: 
+---
+
+I wrote this post just to test if the octopress works OK
+
+> Stay hungry, stay foolish
+
+
