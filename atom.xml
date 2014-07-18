@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://pliu219.github.io/atom.xml" rel="self"/>
   <link href="http://pliu219.github.io/"/>
-  <updated>2014-07-17T17:10:41+08:00</updated>
+  <updated>2014-07-19T07:42:25+08:00</updated>
   <id>http://pliu219.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Markdown Under Windows]]></title>
+    <title type="html"><![CDATA[markdown under Windows]]></title>
     <link href="http://pliu219.github.io/blog/2014/07/17/markdown-under-windows/"/>
     <updated>2014-07-17T17:07:11+08:00</updated>
     <id>http://pliu219.github.io/blog/2014/07/17/markdown-under-windows</id>
@@ -60,7 +60,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Welcome]]></title>
+    <title type="html"><![CDATA[welcome]]></title>
     <link href="http://pliu219.github.io/blog/2014/07/17/welcome/"/>
     <updated>2014-07-17T16:47:54+08:00</updated>
     <id>http://pliu219.github.io/blog/2014/07/17/welcome</id>
