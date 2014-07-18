@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://pliu219.github.io/atom.xml" rel="self"/>
   <link href="http://pliu219.github.io/"/>
-  <updated>2014-07-19T07:42:25+08:00</updated>
+  <updated>2014-07-19T07:56:40+08:00</updated>
   <id>http://pliu219.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://pliu219.github.io/blog/2014/07/19/test/"/>
+    <updated>2014-07-19T07:47:25+08:00</updated>
+    <id>http://pliu219.github.io/blog/2014/07/19/test</id>
+    <content type="html"><![CDATA[<p>just test</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[markdown under Windows]]></title>
